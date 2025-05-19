@@ -3,13 +3,16 @@
 This repository contains the SQL queries developed for analysing customer savings and investment perfomance using PostgreSQL. Each SQL file addresses a specific business problem outlined in the assessment.
 
 **Repository Structure**
-│
-├── Assessment_Q1.sql       # Identifies users with regular savings/investment activities
-├── Assessment_Q2.sql       # Categorizes users by transaction frequency
-├── Assessment_Q3.sql       # Detects inactive savings plans
-├── Assessment_Q4.sql       # Calculates tenure, transactions, and CLV
-│
-└── README.md               # Project overview, methodology, and challenges
+
+├── Assessment_Q1.sql       - Identifies users with regular savings/investment activities
+
+├── Assessment_Q2.sql       - Categorizes users by transaction frequency
+
+├── Assessment_Q3.sql       - Detects inactive savings plans
+
+├── Assessment_Q4.sql       - Calculates tenure, transactions, and CLV
+
+└── README.md               - Project overview, methodology, and challenges
 
 ## Per-Question Explanations
 
